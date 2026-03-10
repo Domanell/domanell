@@ -5,6 +5,6 @@
     </a>
     <div>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=domanell&theme=aura_dark">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=domanell&theme=aura_dark">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=domanell&theme=aura_dark">
     </div>
 </div>
